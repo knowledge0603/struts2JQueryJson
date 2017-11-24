@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Struts2JQueryJson"
+  id="myeclipse.1269225992384"
+  context-root="/Struts2JQueryJson"
+  j2ee-spec="5.0"
+  archive="Struts2JQueryJson.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
